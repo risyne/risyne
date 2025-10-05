@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishita Dutta</h1>
-<h3 align="center">A passionate IT student from India</h3>
+<h3 align="center">A passionate IT student (fresher) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risyne&label=Profile%20views&color=0e75b6&style=flat" alt="risyne" /> </p>
 
