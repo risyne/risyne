@@ -11,10 +11,7 @@
 
 - 💬 Ask me about **web development, flutter**
 
-- 📫 How to reach me **rishitadutta2023@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 📫 How to reach me **rishitadutta2023@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
